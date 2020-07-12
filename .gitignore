@@ -262,3 +262,12 @@ __pycache__/
 
 #course asset folder
 Asset/
+
+# appsettings
+API/appsettings.json
+API/appsettings.Development.json
+
+# database files
+*.db
+API/Reactivites.db-wal
+API/Reactivites.db-shm
